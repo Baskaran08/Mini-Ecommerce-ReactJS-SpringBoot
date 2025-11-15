@@ -23,7 +23,6 @@ Supports product browsing, filtering, cart operations, order placement, and an a
 - Git & GitHub
 - Postman
 - GitHub Actions
-- Docker (optional)
 
 ---
 
